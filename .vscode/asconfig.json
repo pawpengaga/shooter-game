@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "targets": [
+            "JSRoyale"
+        ]
+    },
+    "files":
+    [
+        "src/HelloRoyale.mxml"
+    ]
+}
